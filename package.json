@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "json-over-tcp": "^0.3.2",
+    "level": "^1.4.0",
     "object-path": "^0.11.1",
     "stampit": "^2.1.2"
   }
